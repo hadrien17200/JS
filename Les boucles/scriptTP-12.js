@@ -13,6 +13,6 @@ for(let k = 0; k < tableau.length; k++){
     console.log(tableau[k]);
 } */
 
-tableau.forEach((el)=>{
-    console.log(el);
+tableau.forEach((artiste)=>{
+    console.log(artiste);
 });
